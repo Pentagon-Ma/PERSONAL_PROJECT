@@ -7,3 +7,18 @@ This code project was built by `PsychoPy` first, then uploaded to [pavlovia.org]
 The code I used to present to people was adapted from *Venkatesh Prasad Ranganath* and *John Hatcliff’s* work *Slicing Concurrent Java Programs using Indus and Kaveri*. It is a peer-reviewed code, so it is guaranteed to be glitch-less. The reason I adapted this short code was that we don't expect people to remember a huge program because I didn't want to show the code to the participants when they answer the questions.
 
 Due to confidentiality issues, I didn't upload the `data` folder coming along with this study, since I have promised in the informed consent form that I only use the participants' email address for the gift card reward, but nothing else.
+
+----------------------------------------------------------------------------------------------------------------
+
+## Update 1: Demo run video and stat analysis file
+
+1. Uploaded `demo_run.mp4` to demonstrate how my experiment looks like when running on [pavlovia.org](http://pavlovia.org)
+2. Uploaded the statistical code and the sample data requried for the statistical analysis
+
+### About the Statistical analysis code
+
+This is not the original code I used in my study. I have restructured the code so it looks better formatted.
+
+Due to confidentiality reasons I cannot reveal the data, therefore, I created this dummy data file `data_file.csv` in the directory `R Analysis`.
+
+Since the data file has been greatly shrinked in size, some statistical models (especially those linear mixed-effect models) may fail to work. However, these models are those I directly copied and pasted from my original R script, and they run smoothly without any error or warning. 
