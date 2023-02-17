@@ -29,4 +29,12 @@ Since the data file has been greatly shrinked in size, some statistical models (
 
 ## Update 2: Final thesis uploaded
 
-I have my thesis uploaded to this repo and my thesis defense is arranged on Feb.3. The comittee has already reviewed the thesis so I assume they are okay with this huge work.
+I have my thesis uploaded to this repo and my thesis defense is arranged on Feb.3. The comittee has already reviewed the thesis, so I assume they are okay with this huge work.
+
+----------------------------------------------------------------------------------------------------------------
+
+## Update 3: Thesis Finalized
+
+Thanks again for clicking into this repository. I have successfully passed my Thesis Defense and the final thesis is done. The file `Ma's Master Thesis.pdf` has been submitted, and I have already applied for my graduation.
+
+Thus, it marks the end of this project. No updates will be made. (probably)
