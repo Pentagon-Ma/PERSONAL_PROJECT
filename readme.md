@@ -1,6 +1,6 @@
 # Introductory mental model study of concurrent programming (closed)
 
-update: **For details of this project, please read the File `Ma's Master Thesis.pdf`**
+Update: **For details of this project, please read the File `Ma's Master Thesis.pdf`**
 
 This is the source code I finalized to run the experiment concerning the mental models when people try to read or understand the concurrent programs. The study is built and published online on [pavlovia.org](http://pavlovia.org) (currently closed already).
 
@@ -12,10 +12,10 @@ Due to confidentiality issues, I didn't upload the `data` folder coming along wi
 
 ----------------------------------------------------------------------------------------------------------------
 
-## Update 1: Demo run video and stat analysis file
+## Update 1: Demo run video and statistics analysis file
 
 1. Uploaded `demo_run.mp4` to demonstrate how my experiment looks like when running on [pavlovia.org](http://pavlovia.org)
-2. Uploaded the statistical code and the sample data requried for the statistical analysis
+2. Uploaded the statistical code and the sample data required for the statistical analysis
 
 ### About the Statistical analysis code
 
@@ -23,17 +23,17 @@ This is not the original code I used in my study. I have restructured the code s
 
 Due to confidentiality reasons I cannot reveal the data, therefore, I created this dummy data file `data_file.csv` in the directory `R Analysis`.
 
-Since the data file has been greatly shrinked in size, some statistical models (especially those linear mixed-effect models) may fail to work. However, these models are those I directly copied and pasted from my original R script, and they run smoothly without any error or warning.
+Since the data file has been greatly shrunk in size, some statistical models (especially those linear mixed-effect models) may fail to work. However, these models are those I directly copied and pasted from my original R script, and they run smoothly without any error or warning.
 
 ----------------------------------------------------------------------------------------------------------------
 
 ## Update 2: Final thesis uploaded
 
-I have my thesis uploaded to this repo and my thesis defense is arranged on Feb.3. The comittee has already reviewed the thesis, so I assume they are okay with this huge work.
+I have my thesis uploaded to this repo and my thesis defense is arranged on Feb.3. The committee has already reviewed the thesis, so I assume they are okay with this huge work.
 
 ----------------------------------------------------------------------------------------------------------------
 
-## Update 3: Thesis Finalized
+## Update 3: Thesis finalized
 
 Thanks again for clicking into this repository. I have successfully passed my Thesis Defense and the final thesis is done. The file `Ma's Master Thesis.pdf` has been submitted, and I have already applied for my graduation.
 
